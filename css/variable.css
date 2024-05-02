@@ -1,0 +1,16 @@
+:root {
+    /* color */
+
+    --Verydarkblue: hsl(233, 47%, 7%);
+    --Darkdesaturatedblue: hsl(244, 38%, 16%);
+    --Softviolet: hsl(277, 64%, 61%);
+    --Darksoftviolet: hsl(277deg 100% 27.8% / 66%);
+    --White: hsl(0, 0%, 100%);
+    --Slightlytransparent: hsla(0, 0%, 100%, 0.75);
+    --Slightlytransparent: hsla(0, 0%, 100%, 0.6);
+
+    /* typography */
+
+    --Intel: 'Inter', sans-serif;
+    --Deca: 'Lexend Deca', sans-serif;
+}
